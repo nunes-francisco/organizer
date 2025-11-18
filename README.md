@@ -6,7 +6,7 @@
 
 Pequeno projeto em JavaScript, com propósito de organizar arquivos automaticamente no macOS.
 
-![](/Users/francisconunes/Projects/organizer/organizer/assets/capa.png)
+![](assets/capa.png)
 
 
 # 📦 Organizer for macOS – Automatic File Sorting
