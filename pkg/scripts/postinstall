@@ -1,0 +1,15 @@
+#!/bin/bash
+# Copy payload files into place
+cp -R "$2"/payload/* /usr/local/organizer/
+
+
+# Install LaunchDaemon
+cp "$2"/org.organizer.plist /Library/LaunchDaemons/
+chmod 644 /Library/LaunchDaemons/org.organizer.plist
+
+
+# Load the daemon
+launchctl load /Library/LaunchDaemons/org.organizer.plist
+
+
+exit 0

@@ -1,0 +1,4 @@
+#!/bin/bash
+# Ensure the target directory exists
+mkdir -p /usr/local/organizer
+exit 0
