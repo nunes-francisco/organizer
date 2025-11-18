@@ -1,6 +1,6 @@
 ![Install](https://img.shields.io/badge/Install-.pkg-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.1.0-orange?style=for-the-badge)
 
 # FileWatcher Automation
 
