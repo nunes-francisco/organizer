@@ -1,0 +1,536 @@
+[2025-11-19T02:28:51.724Z] Iniciando execução...
+[2025-11-19T02:28:51.925Z] Movido: 000131  FRANCISCO DE ASSIS NUNES  AVISO  RECIBO pdf.zip → compressed_files
+[2025-11-19T02:28:51.926Z] Movido: 000131  FRANCISCO DE ASSIS NUNES  AVISO DE FERIAS pdf.zip → compressed_files
+[2025-11-19T02:28:51.928Z] Movido: 000131---FRANCISCO-DE-ASSIS-NUNES---AVISO-DE-FERIAS-pdf-2.pdf → pdf_files
+[2025-11-19T02:28:51.930Z] Movido: 000131---FRANCISCO-DE-ASSIS-NUNES---AVISO-DE-FERIAS-pdf.pdf → pdf_files
+[2025-11-19T02:28:51.930Z] Movido: 000131---FRANCISCO-DE-ASSIS-NUNES---AVISO-DE-FERIAS-pdf.zip → compressed_files
+[2025-11-19T02:28:51.933Z] Movido: 01 Instalações de datacenter-Português.txt → text_files
+[2025-11-19T02:28:51.933Z] Movido: 01032024-044224.jpg → image_files
+[2025-11-19T02:28:51.934Z] Movido: 02 - O mercado cloud - parte 1-Português.txt → text_files
+[2025-11-19T02:28:51.934Z] Movido: 05 Arquiteturas de Implantação-Português.txt → text_files
+[2025-11-19T02:28:51.936Z] Movido: 06 - O modelo ITIL para suporte-Português.txt → text_files
+[2025-11-19T02:28:51.937Z] Movido: 0801729-51.2024.8.15.0371_105550003.pdf → pdf_files
+[2025-11-19T02:28:51.938Z] Movido: 1021 (1).jpg → image_files
+[2025-11-19T02:28:51.939Z] Movido: 1021.jpg → image_files
+[2025-11-19T02:28:51.940Z] Movido: 120415 (1).jpg → image_files
+[2025-11-19T02:28:51.941Z] Movido: 120415 (2).jpg → image_files
+[2025-11-19T02:28:51.942Z] Movido: 120415.jpg → image_files
+[2025-11-19T02:28:51.942Z] Movido: 131  FRANCISCO DE ASSIS NUNES  AVISO pdf.zip → compressed_files
+[2025-11-19T02:28:51.943Z] Movido: 1740651167120.pdf → pdf_files
+[2025-11-19T02:28:51.947Z] Movido: 1LrBNW3SJmk7KfJN6.html → web_files
+[2025-11-19T02:28:51.949Z] Movido: 1_1_1-O_MERCADO_CLOUD.pdf → pdf_files
+[2025-11-19T02:28:51.950Z] Movido: 1o._Termo_Aditivo_Acordo_Extrajudicial_Mindbe_e_Francisco_Nunes.pdf → pdf_files
+[2025-11-19T02:28:51.951Z] Movido: 2024-12-18T11-02-23-Decisão.pdf → pdf_files
+[2025-11-19T02:28:51.951Z] Movido: 20250214curriculo_7de87dbd-fe1c-4c64-a61d-bdc87384bc0f.pdf → pdf_files
+[2025-11-19T02:28:51.952Z] Movido: 20250301_153214.jpg → image_files
+[2025-11-19T02:28:51.952Z] Movido: 2151053280 (1).jpg → image_files
+[2025-11-19T02:28:51.952Z] Movido: 2151053280.jpg → image_files
+[2025-11-19T02:28:51.953Z] Movido: 2151053282 (1).jpg → image_files
+[2025-11-19T02:28:51.954Z] Movido: 2151053282 (2).jpg → image_files
+[2025-11-19T02:28:51.954Z] Movido: 2151053282.jpg → image_files
+[2025-11-19T02:28:51.955Z] Movido: 4 - Criando uma aplicação de listagem de filmes - Parte III-Português.txt → text_files
+[2025-11-19T02:28:51.956Z] Movido: 40504 (1).jpg → image_files
+[2025-11-19T02:28:51.957Z] Movido: 40504 (2).jpg → image_files
+[2025-11-19T02:28:51.957Z] Movido: 40504.jpg → image_files
+[2025-11-19T02:28:51.958Z] Movido: 483148_16845238.pdf → pdf_files
+[2025-11-19T02:28:51.958Z] Movido: 483149_16845238.pdf → pdf_files
+[2025-11-19T02:28:51.959Z] Movido: 51002095624681AE1131333801F810EDFCBDD47942E4.PDF → pdf_files
+[2025-11-19T02:28:51.960Z] Movido: 55393-500762771_medium.mp4 → video_files
+[2025-11-19T02:28:51.961Z] Movido: 7020056_Disco_Ball_3840x2160.mov → video_files
+[2025-11-19T02:28:51.961Z] Movido: 7212-198809115_medium.mp4 → video_files
+[2025-11-19T02:28:51.962Z] Movido: ATA 22-02-2025 .pdf → pdf_files
+[2025-11-19T02:28:51.963Z] Movido: Apostila-Programacao-WEB_HTML_CSS.pdf → pdf_files
+[2025-11-19T02:28:51.964Z] Movido: Balancete do mês de junho de 2025 (1).pdf → pdf_files
+[2025-11-19T02:28:51.965Z] Movido: Balancete do mês de junho de 2025.pdf → pdf_files
+[2025-11-19T02:28:51.965Z] Movido: Balanço fevereiro-2025.pdf → pdf_files
+[2025-11-19T02:28:51.966Z] Movido: Bradesco 13_12_2024 12_49_58.pdf → pdf_files
+[2025-11-19T02:28:51.967Z] Movido: Bradesco 30_07_2025 14_00_39.pdf → pdf_files
+[2025-11-19T02:28:51.968Z] Movido: Bradesco 30_07_2025 14_02_57.pdf → pdf_files
+[2025-11-19T02:28:51.970Z] Movido: Bradesco_04012025_115258.pdf → pdf_files
+[2025-11-19T02:28:51.971Z] Movido: Bradesco_05112024_202801.xls → spreadsheet_files
+[2025-11-19T02:28:51.972Z] Movido: Bradesco_14032025_112252.pdf → pdf_files
+[2025-11-19T02:28:51.973Z] Movido: Bradesco_14032025_112635.pdf → pdf_files
+[2025-11-19T02:28:51.973Z] Movido: Bradesco_26022025_135811.xls → spreadsheet_files
+[2025-11-19T02:28:51.974Z] Movido: Bradesco_26022025_141256.pdf → pdf_files
+[2025-11-19T02:28:51.974Z] Movido: Bradesco_30072025_123708.xls → spreadsheet_files
+[2025-11-19T02:28:51.975Z] Movido: CARTA DE REFERÊNCIA FRANCISCO NUNES..pdf → pdf_files
+[2025-11-19T02:28:51.976Z] Movido: CCT-2024-2025-ASSINADA-condominio.pdf → pdf_files
+[2025-11-19T02:28:51.977Z] Movido: CCT-2024.pdf → pdf_files
+[2025-11-19T02:28:51.978Z] Movido: CCT-Edificios-Condominios-2024-2025-seacotur.pdf → pdf_files
+[2025-11-19T02:28:51.979Z] Movido: CCT.pdf → pdf_files
+[2025-11-19T02:28:51.980Z] Movido: CNH.pdf → pdf_files
+[2025-11-19T02:28:51.980Z] Movido: CPF.pdf → pdf_files
+[2025-11-19T02:28:51.981Z] Movido: CTPSDigital_266.067.838-36_03-07-2025 (1).pdf → pdf_files
+[2025-11-19T02:28:51.981Z] Movido: CTPSDigital_266.067.838-36_03-07-2025.pdf → pdf_files
+[2025-11-19T02:28:51.982Z] Movido: CTPS_26606783836_2025-02-26T17 (1).pdf → pdf_files
+[2025-11-19T02:28:51.983Z] Movido: CTPS_26606783836_2025-02-26T17.pdf → pdf_files
+[2025-11-19T02:28:51.984Z] Movido: CURRICULO-FRANCISCO-NUNES.pdf → pdf_files
+[2025-11-19T02:28:51.985Z] Movido: CV currículo.docx → word_files
+[2025-11-19T02:28:51.985Z] Movido: CamScanner 14-03-2025 17.44.pdf → pdf_files
+[2025-11-19T02:28:51.986Z] Movido: CamScanner 25-02-2025 10.22.pdf → pdf_files
+[2025-11-19T02:28:51.989Z] Movido: Campanha Salarial 2025_ SIEMACO-SP conquista um dos melhores reajustes do país para a categoria de Asseio e Conservação – SIEMACO São Paulo.pdf → pdf_files
+[2025-11-19T02:28:51.989Z] Movido: Carta de apresentação em tons de azul e cinza.docx → word_files
+[2025-11-19T02:28:51.990Z] Movido: Cartilha_Desperdicio_Agua.pdf → pdf_files
+[2025-11-19T02:28:51.990Z] Movido: Certificado_444360531.pdf → pdf_files
+[2025-11-19T02:28:51.990Z] Movido: Certificado_444360531_bradesco_seguro.pdf → pdf_files
+[2025-11-19T02:28:51.991Z] Movido: ChatGPT Image 1 de nov. de 2025, 02_06_07.png → image_files
+[2025-11-19T02:28:51.992Z] Movido: ChatGPT Image 14 de out. de 2025, 18_29_57.png → image_files
+[2025-11-19T02:28:51.992Z] Movido: ChatGPT Image 14 de out. de 2025, 18_32_59.png → image_files
+[2025-11-19T02:28:51.993Z] Movido: ChatGPT Image 14 de out. de 2025, 18_50_35.png → image_files
+[2025-11-19T02:28:51.993Z] Movido: ChatGPT Image 14 de out. de 2025, 18_50_38.png → image_files
+[2025-11-19T02:28:51.993Z] Movido: ChatGPT Image 18 de nov. de 2025, 01_58_39.png → image_files
+[2025-11-19T02:28:51.994Z] Movido: ChatGPT Image 18 de nov. de 2025, 23_09_29.png → image_files
+[2025-11-19T02:28:51.994Z] Movido: ChatGPT Image 2 de out. de 2025, 16_06_46.png → image_files
+[2025-11-19T02:28:51.995Z] Movido: ChatGPT Image 22 de out. de 2025, 00_15_17.png → image_files
+[2025-11-19T02:28:51.996Z] Movido: ChatGPT Image 24 de out. de 2025, 23_44_44.png → image_files
+[2025-11-19T02:28:51.996Z] Movido: ChatGPT Image 25 de set. de 2025, 22_39_46.png → image_files
+[2025-11-19T02:28:51.997Z] Movido: ChatGPT Image 29 de set. de 2025, 00_03_37.png → image_files
+[2025-11-19T02:28:51.997Z] Movido: ChatGPT Image 29 de set. de 2025, 00_34_40.png → image_files
+[2025-11-19T02:28:51.998Z] Movido: ChatGPT Image 29 de set. de 2025, 00_36_31.png → image_files
+[2025-11-19T02:28:51.998Z] Movido: ChatGPT Image 29 de set. de 2025, 00_36_38.png → image_files
+[2025-11-19T02:28:51.998Z] Movido: ChatGPT Image 29 de set. de 2025, 00_41_45.png → image_files
+[2025-11-19T02:28:51.999Z] Movido: ChatGPT Image 29 de set. de 2025, 00_48_25.png → image_files
+[2025-11-19T02:28:51.999Z] Movido: ChatGPT Image 30 de set. de 2025, 22_56_07.png → image_files
+[2025-11-19T02:28:52.000Z] Movido: ChatGPT Image 30 de set. de 2025, 23_00_33.png → image_files
+[2025-11-19T02:28:52.000Z] Movido: ChatGPT Image 30 de set. de 2025, 23_13_39.png → image_files
+[2025-11-19T02:28:52.000Z] Movido: ChatGPT Image 30 de set. de 2025, 23_17_10.png → image_files
+[2025-11-19T02:28:52.001Z] Movido: ChatGPT Image 30 de set. de 2025, 23_23_32.png → image_files
+[2025-11-19T02:28:52.001Z] Movido: ChatGPT Image 30 de set. de 2025, 23_30_14.png → image_files
+[2025-11-19T02:28:52.002Z] Movido: ChatGPT Image 30 de set. de 2025, 23_42_15.png → image_files
+[2025-11-19T02:28:52.002Z] Movido: ChatGPT Image 5 de nov. de 2025, 18_17_05.png → image_files
+[2025-11-19T02:28:52.002Z] Movido: ChatGPT Image 6 de abr. de 2025, 00_03_02.png → image_files
+[2025-11-19T02:28:52.003Z] Movido: ChatGPT Image 6 de abr. de 2025, 00_17_15.png → image_files
+[2025-11-19T02:28:52.003Z] Movido: ChatGPT Image 8 de nov. de 2025, 02_08_01.png → image_files
+[2025-11-19T02:28:52.004Z] Movido: ChatGPT Image 8 de nov. de 2025, 02_10_03.png → image_files
+[2025-11-19T02:28:52.005Z] Movido: ChatGPT_Atlas.dmg → executable_files
+[2025-11-19T02:28:52.005Z] Movido: Circular-SEACOTURH-Edificios-e-Condominios-2024.pdf → pdf_files
+[2025-11-19T02:28:52.006Z] Movido: CultureFeedback.pdf → pdf_files
+[2025-11-19T02:28:52.006Z] Movido: Curriculo_Francisco_Nunes_Atualizado.docx → word_files
+[2025-11-19T02:28:52.007Z] Movido: Currículo básico moderno.docx → word_files
+[2025-11-19T02:28:52.007Z] Movido: Currículo com formas orgânicas.docx → word_files
+[2025-11-19T02:28:52.008Z] Movido: Demonstrativo_Evolucao_Contrato_Hab.pdf → pdf_files
+[2025-11-19T02:28:52.008Z] Movido: Dentes em Desenho Minimalista (1).png → image_files
+[2025-11-19T02:28:52.009Z] Movido: Dentes em Desenho Minimalista.png → image_files
+[2025-11-19T02:28:52.010Z] Movido: Denuncia_Perturbacao_Sossego_Osasco.pdf → pdf_files
+[2025-11-19T02:28:52.012Z] Movido: Denuncia_Perturbacao_Sossego_Osasco_Detalhado.pdf → pdf_files
+[2025-11-19T02:28:52.013Z] Movido: Denuncia_Perturbacao_Sossego_Osasco_Direta.pdf → pdf_files
+[2025-11-19T02:28:52.013Z] Movido: Design sem nome (1).png → image_files
+[2025-11-19T02:28:52.014Z] Movido: Design sem nome.png → image_files
+[2025-11-19T02:28:52.015Z] Movido: Document 2.pdf → pdf_files
+[2025-11-19T02:28:52.016Z] Movido: Document 3 - Português (Brasil).docx → word_files
+[2025-11-19T02:28:52.016Z] Movido: Document 3.pdf → pdf_files
+[2025-11-19T02:28:52.017Z] Movido: E-Ticket-3306402510.pdf → pdf_files
+[2025-11-19T02:28:52.017Z] Movido: ELETROCARDIOGRAMA DE REPOUSO (laudo)  (1).pdf → pdf_files
+[2025-11-19T02:28:52.018Z] Movido: ELETROCARDIOGRAMA DE REPOUSO (laudo) .pdf → pdf_files
+[2025-11-19T02:28:52.018Z] Movido: ENC_ Acordo Extrajudicial _ Francisco de Assis Nunes.zip → compressed_files
+[2025-11-19T02:28:52.019Z] Movido: Extrato-inss-CNIS.pdf → pdf_files
+[2025-11-19T02:28:52.019Z] Movido: FRANCISCODEASSISNUNES - 10042025184824.jpeg → image_files
+[2025-11-19T02:28:52.020Z] Movido: FRANCISCODEASSISNUNES - 10042025184838.jpeg → image_files
+[2025-11-19T02:28:52.020Z] Movido: FRANCISCODEASSISNUNES - 10042025184954.jpeg → image_files
+[2025-11-19T02:28:52.021Z] Movido: Fatura Claro.pdf → pdf_files
+[2025-11-19T02:28:52.021Z] Movido: Figma (1).dmg → executable_files
+[2025-11-19T02:28:52.022Z] Movido: Figma.dmg → executable_files
+[2025-11-19T02:28:52.022Z] Movido: FranciscoNunesResume.pdf → pdf_files
+[2025-11-19T02:28:52.023Z] Movido: Gemini_Generated_Image_26jfze26jfze26jf.png → image_files
+[2025-11-19T02:28:52.024Z] Movido: Gemini_Generated_Image_6g832c6g832c6g83.png → image_files
+[2025-11-19T02:28:52.024Z] Movido: Gemini_Generated_Image_7ce1xa7ce1xa7ce1.png → image_files
+[2025-11-19T02:28:52.025Z] Movido: Gemini_Generated_Image_7ymg6x7ymg6x7ymg.png → image_files
+[2025-11-19T02:28:52.025Z] Movido: Gemini_Generated_Image_9srzgm9srzgm9srz.png → image_files
+[2025-11-19T02:28:52.026Z] Movido: Gemini_Generated_Image_ev2sy0ev2sy0ev2s.jpeg → image_files
+[2025-11-19T02:28:52.026Z] Movido: Gemini_Generated_Image_fxyansfxyansfxya.jpeg → image_files
+[2025-11-19T02:28:52.026Z] Movido: Gemini_Generated_Image_npxbymnpxbymnpxb.jpeg → image_files
+[2025-11-19T02:28:52.027Z] Movido: Gemini_Generated_Image_xoyffvxoyffvxoyf.png → image_files
+[2025-11-19T02:28:52.027Z] Movido: Holerite_E1_06-2024_F1334_01072024150244.pdf → pdf_files
+[2025-11-19T02:28:52.028Z] Movido: Holerite_E1_07-2024_F1334_01082024091631.pdf → pdf_files
+[2025-11-19T02:28:52.028Z] Movido: Holerite_E1_07-2024_F1334_16072024170447.pdf → pdf_files
+[2025-11-19T02:28:52.029Z] Movido: Holerite_E1_08-2024_F1334_15082024173351.pdf → pdf_files
+[2025-11-19T02:28:52.029Z] Movido: Holerite_E1_08-2024_F1334_30082024150024.pdf → pdf_files
+[2025-11-19T02:28:52.030Z] Movido: Holerite_E1_12-2024_F1334_18122024082332.pdf → pdf_files
+[2025-11-19T02:28:52.030Z] Movido: Holerite_E1_12-2024_F1334_18122024082654.pdf → pdf_files
+[2025-11-19T02:28:52.031Z] Movido: Holerite_E1_12-2024_F1334_30122024102104.pdf → pdf_files
+[2025-11-19T02:28:52.032Z] Movido: Home.png → image_files
+[2025-11-19T02:28:52.033Z] Movido: IMG_20180927_090119_084.jpg → image_files
+[2025-11-19T02:28:52.033Z] Movido: IMG_20240413_151357_025(1).jpg → image_files
+[2025-11-19T02:28:52.033Z] Movido: IMG_8929 copy.jpg- final.jpg → image_files
+[2025-11-19T02:28:52.034Z] Movido: INFORMAÇÕES PLANO DE SAÚDE - PORTO SEGURO (1).pdf → pdf_files
+[2025-11-19T02:28:52.035Z] Movido: INFORMAÇÕES PLANO DE SAÚDE - PORTO SEGURO.pdf → pdf_files
+[2025-11-19T02:28:52.037Z] Movido: IR 2024 - NUNES.pdf → pdf_files
+[2025-11-19T02:28:52.037Z] Movido: Icons8.zip → compressed_files
+[2025-11-19T02:28:52.038Z] Movido: InstallFigmaAgent.dmg → executable_files
+[2025-11-19T02:28:52.039Z] Movido: L121_Lite_64NR_LA (1).dmg → executable_files
+[2025-11-19T02:28:52.039Z] Movido: L121_Lite_64NR_LA.dmg → executable_files
+[2025-11-19T02:28:52.039Z] Movido: Laudo Completo 08_04_2025 (1).pdf → pdf_files
+[2025-11-19T02:28:52.040Z] Movido: Laudo Completo 08_04_2025.pdf → pdf_files
+[2025-11-19T02:28:52.040Z] Movido: Lead DevSecOps (1).pdf → pdf_files
+[2025-11-19T02:28:52.041Z] Movido: Lead DevSecOps (2).pdf → pdf_files
+[2025-11-19T02:28:52.042Z] Movido: Lead DevSecOps.pdf → pdf_files
+[2025-11-19T02:28:52.042Z] Movido: LoFG6YtYLw0Z2Wzoa.html → web_files
+[2025-11-19T02:28:52.043Z] Movido: Minuta Acordo Extrajudicial Mindbe e Nunes pdf.zip → compressed_files
+[2025-11-19T02:28:52.043Z] Movido: Minuta-Acordo-Extrajudicial-Mindbe-e-Nunes-pdf-D4Sign.pdf → pdf_files
+[2025-11-19T02:28:52.044Z] Movido: Minuta-Acordo-Extrajudicial-Mindbe-e-Nunes-pdf.zip → compressed_files
+[2025-11-19T02:28:52.044Z] Movido: Minuta_Acordo_Extrajudicial_Mindbe_e_Nunes (1).docx → word_files
+[2025-11-19T02:28:52.045Z] Movido: Minuta_Acordo_Extrajudicial_Mindbe_e_Nunes (2).docx → word_files
+[2025-11-19T02:28:52.045Z] Movido: Minuta_Acordo_Extrajudicial_Mindbe_e_Nunes (3).docx → word_files
+[2025-11-19T02:28:52.045Z] Movido: Minuta_Acordo_Extrajudicial_Mindbe_e_Nunes.docx → word_files
+[2025-11-19T02:28:52.046Z] Movido: Modern web developer resume.docx → word_files
+[2025-11-19T02:28:52.047Z] Movido: Mounty_for_NTFS_V2.4.dmg → executable_files
+[2025-11-19T02:28:52.047Z] Movido: Navbar-main.zip → compressed_files
+[2025-11-19T02:28:52.048Z] Movido: Nicepage-7.15.4.dmg → executable_files
+[2025-11-19T02:28:52.048Z] Movido: PEDIDOS-FOTOS-2025.pdf → pdf_files
+[2025-11-19T02:28:52.049Z] Movido: PROPOSTADECCT2024.pdf → pdf_files
+[2025-11-19T02:28:52.049Z] Movido: PdfExpertInstaller.zip → compressed_files
+[2025-11-19T02:28:52.050Z] Movido: Planilha_Pagto__Francisco_Nunes(1).xlsx → spreadsheet_files
+[2025-11-19T02:28:52.050Z] Movido: PostAnalytics_FranciscoNunes_7304337753972858882.xlsx → spreadsheet_files
+[2025-11-19T02:28:52.051Z] Movido: Profile (1).pdf → pdf_files
+[2025-11-19T02:28:52.051Z] Movido: Profile (2).pdf → pdf_files
+[2025-11-19T02:28:52.052Z] Movido: Profile (3).pdf → pdf_files
+[2025-11-19T02:28:52.052Z] Movido: Profile (4).pdf → pdf_files
+[2025-11-19T02:28:52.052Z] Movido: Profile (5).pdf → pdf_files
+[2025-11-19T02:28:52.053Z] Movido: Profile (6).pdf → pdf_files
+[2025-11-19T02:28:52.053Z] Movido: Profile.pdf → pdf_files
+[2025-11-19T02:28:52.053Z] Movido: ProfileFeedback.pdf → pdf_files
+[2025-11-19T02:28:52.054Z] Movido: Proposta Nunes - PJ.xlsx → spreadsheet_files
+[2025-11-19T02:28:52.054Z] Movido: Pytest (1).pdf → pdf_files
+[2025-11-19T02:28:52.055Z] Movido: Pytest.pdf → pdf_files
+[2025-11-19T02:28:52.056Z] Movido: Pytest.zip → compressed_files
+[2025-11-19T02:28:52.057Z] Movido: Python-Testing-with-pytest-Pragmatic-Bookshelf-2017-Brian-Okken.pdf → pdf_files
+[2025-11-19T02:28:52.058Z] Movido: README (1).md → markdown_files
+[2025-11-19T02:28:52.058Z] Movido: README (2).md → markdown_files
+[2025-11-19T02:28:52.059Z] Movido: README.md → markdown_files
+[2025-11-19T02:28:52.059Z] Movido: RELAÇÃO_DE_VALORES_DE_TAXAS_COBRADAS_2022.pdf → pdf_files
+[2025-11-19T02:28:52.060Z] Movido: Resume.txt → text_files
+[2025-11-19T02:28:52.060Z] Movido: Scan.png → image_files
+[2025-11-19T02:28:52.060Z] Movido: Sublime Text Build 3211.dmg → executable_files
+[2025-11-19T02:28:52.061Z] Movido: TRCT - Termo_Rescisao_do_Contrato_de_Trabalho.pdf → pdf_files
+[2025-11-19T02:28:52.061Z] Movido: TRCT_Francisco_Nunes (1).pdf → pdf_files
+[2025-11-19T02:28:52.061Z] Movido: TRCT_Francisco_Nunes (2).pdf → pdf_files
+[2025-11-19T02:28:52.062Z] Movido: TRCT_Francisco_Nunes.pdf → pdf_files
+[2025-11-19T02:28:52.062Z] Movido: Template-curriculo.docx → word_files
+[2025-11-19T02:28:52.062Z] Movido: Termo-Aditivo_Siemaco-SP-x-Seac-SP (1).pdf → pdf_files
+[2025-11-19T02:28:52.063Z] Movido: ULTRASSONOGRAFIA DO ABDOME TOTAL (laudo) .pdf → pdf_files
+[2025-11-19T02:28:52.063Z] Movido: ULTRASSONOGRAFIA DO ABDOME TOTAL (série de impressão-imagens) .pdf → pdf_files
+[2025-11-19T02:28:52.064Z] Movido: Unidade 03.pdf → pdf_files
+[2025-11-19T02:28:52.064Z] Movido: Unidade 04.pdf → pdf_files
+[2025-11-19T02:28:52.065Z] Movido: VSCode-darwin-universal.zip → compressed_files
+[2025-11-19T02:28:52.066Z] Movido: Vinyl-Record--Streamline-Ultimate.png → image_files
+[2025-11-19T02:28:52.066Z] Movido: WhatsApp Image 2025-01-23 at 16.38.47 (1).jpeg → image_files
+[2025-11-19T02:28:52.066Z] Movido: WhatsApp Image 2025-01-23 at 16.38.47.jpeg → image_files
+[2025-11-19T02:28:52.067Z] Movido: WhatsApp Image 2025-03-15 at 16.16.56.jpeg → image_files
+[2025-11-19T02:28:52.067Z] Movido: WhatsApp Image 2025-04-29 at 21.44.47.jpeg → image_files
+[2025-11-19T02:28:52.068Z] Movido: WhatsApp Image 2025-09-30 at 21.26.26.jpeg → image_files
+[2025-11-19T02:28:52.068Z] Movido: WhatsApp Unknown 2025-03-23 at 12.39.43.zip → compressed_files
+[2025-11-19T02:28:52.069Z] Movido: Zoom.png → image_files
+[2025-11-19T02:28:52.069Z] Movido: [Unidade 01] 01. Introdução-Português.txt → text_files
+[2025-11-19T02:28:52.070Z] Movido: _modelo_de_curriculo__da_Iventis .pdf → pdf_files
+[2025-11-19T02:28:52.071Z] Movido: _modelo_de_curriculo__da_Iventis.docx → word_files
+[2025-11-19T02:28:52.071Z] Movido: ai_studio_code.txt → text_files
+[2025-11-19T02:28:52.072Z] Movido: apontando-o-dedo.png → image_files
+[2025-11-19T02:28:52.072Z] Movido: apontando-para-a-direita (1).png → image_files
+[2025-11-19T02:28:52.073Z] Movido: apontando-para-a-direita (2).png → image_files
+[2025-11-19T02:28:52.073Z] Movido: apontando-para-a-direita.png → image_files
+[2025-11-19T02:28:52.074Z] Movido: app.py → python_files
+[2025-11-19T02:28:52.074Z] Movido: aws_lambda_dynamodb.zip → compressed_files
+[2025-11-19T02:28:52.075Z] Movido: boleto-01-01-2025-puc.pdf → pdf_files
+[2025-11-19T02:28:52.076Z] Movido: boleto-puc-03-2025.pdf → pdf_files
+[2025-11-19T02:28:52.078Z] Movido: botao-play (1).png → image_files
+[2025-11-19T02:28:52.080Z] Movido: botao-play (2).png → image_files
+[2025-11-19T02:28:52.081Z] Movido: botao-play.png → image_files
+[2025-11-19T02:28:52.082Z] Movido: bw-macos-2024.12.0.zip → compressed_files
+[2025-11-19T02:28:52.083Z] Movido: camera.png → image_files
+[2025-11-19T02:28:52.084Z] Movido: capa-face.png → image_files
+[2025-11-19T02:28:52.084Z] Movido: carefree-beautiful-girl-perform-song-singing-microphone-with-passion-playing-karaoke-standing-ove (1).jpg → image_files
+[2025-11-19T02:28:52.085Z] Movido: carefree-beautiful-girl-perform-song-singing-microphone-with-passion-playing-karaoke-standing-ove.jpg → image_files
+[2025-11-19T02:28:52.085Z] Movido: caucasian-female-singer-portrait-isolated-green-studio-wall.jpg → image_files
+[2025-11-19T02:28:52.086Z] Movido: cct_osasco_regiao_seacsp_2024_2025.pdf → pdf_files
+[2025-11-19T02:28:52.087Z] Movido: celular.png → image_files
+[2025-11-19T02:28:52.088Z] Movido: clinicas_osasco.md → markdown_files
+[2025-11-19T02:28:52.088Z] Movido: clinicas_osasco.txt → text_files
+[2025-11-19T02:28:52.088Z] Movido: close-up-image-programer-working-his-desk-office.jpg → image_files
+[2025-11-19T02:28:52.089Z] Movido: coding-man (1).jpg → image_files
+[2025-11-19T02:28:52.089Z] Movido: coding-man.jpg → image_files
+[2025-11-19T02:28:52.089Z] Movido: complain_47a280c2-5e77-46bd-8a93-ac99c9e9449c.pdf → pdf_files
+[2025-11-19T02:28:52.090Z] Movido: comprovante.html → web_files
+[2025-11-19T02:28:52.090Z] Movido: comunicado_de_impacto_financeiro2025.pdf → pdf_files
+[2025-11-19T02:28:52.091Z] Movido: condicoes-seguro-bradesco.pdf → pdf_files
+[2025-11-19T02:28:52.091Z] Movido: curriculo (1).pdf → pdf_files
+[2025-11-19T02:28:52.092Z] Movido: curriculo (2).pdf → pdf_files
+[2025-11-19T02:28:52.092Z] Movido: curriculo (3).pdf → pdf_files
+[2025-11-19T02:28:52.093Z] Movido: curriculo (4).pdf → pdf_files
+[2025-11-19T02:28:52.093Z] Movido: curriculo nunes.doc → word_files
+[2025-11-19T02:28:52.094Z] Movido: curriculo.pdf → pdf_files
+[2025-11-19T02:28:52.095Z] Movido: dados_tabela.xlsx → spreadsheet_files
+[2025-11-19T02:28:52.096Z] Movido: db_manager.png → image_files
+[2025-11-19T02:28:52.096Z] Movido: dev_parameters_store_reader_accessKeys.csv → spreadsheet_files
+[2025-11-19T02:28:52.097Z] Movido: diario_07-04-2025.pdf → pdf_files
+[2025-11-19T02:28:52.097Z] Movido: diario_08-04-2025.pdf → pdf_files
+[2025-11-19T02:28:52.097Z] Movido: diario_09-04-2025.pdf → pdf_files
+[2025-11-19T02:28:52.098Z] Movido: diario_11-04-2025.pdf → pdf_files
+[2025-11-19T02:28:52.098Z] Movido: diario_25-03-2025 (1).pdf → pdf_files
+[2025-11-19T02:28:52.098Z] Movido: diario_25-03-2025.pdf → pdf_files
+[2025-11-19T02:28:52.099Z] Movido: diario_26-03-2025.pdf → pdf_files
+[2025-11-19T02:28:52.099Z] Movido: diario_27-03-2025.pdf → pdf_files
+[2025-11-19T02:28:52.099Z] Movido: diario_28-03-2025.pdf → pdf_files
+[2025-11-19T02:28:52.100Z] Movido: digital-cloud-computing-futuristic-background-cyber-service.zip → compressed_files
+[2025-11-19T02:28:52.100Z] Movido: disco-ball (1).png → image_files
+[2025-11-19T02:28:52.100Z] Movido: disco-ball (2).png → image_files
+[2025-11-19T02:28:52.101Z] Movido: disco-ball.png → image_files
+[2025-11-19T02:28:52.101Z] Movido: disco-ball_1901227.png → image_files
+[2025-11-19T02:28:52.101Z] Movido: disco_karaoke_spa (1).html → web_files
+[2025-11-19T02:28:52.102Z] Movido: disco_karaoke_spa (2).html → web_files
+[2025-11-19T02:28:52.102Z] Movido: disco_karaoke_spa (3).html → web_files
+[2025-11-19T02:28:52.102Z] Movido: disco_karaoke_spa (4).html → web_files
+[2025-11-19T02:28:52.103Z] Movido: disco_karaoke_spa (5).html → web_files
+[2025-11-19T02:28:52.103Z] Movido: disco_karaoke_spa.html → web_files
+[2025-11-19T02:28:52.103Z] Movido: disco_karaoke_template.html → web_files
+[2025-11-19T02:28:52.104Z] Movido: discoteque.zip → compressed_files
+[2025-11-19T02:28:52.104Z] Movido: discoteque_st.zip → compressed_files
+[2025-11-19T02:28:52.105Z] Movido: divisa-direita.png → image_files
+[2025-11-19T02:28:52.105Z] Movido: doc_1740592130491.pdf → pdf_files
+[2025-11-19T02:28:52.105Z] Movido: doc_1741392939852.pdf → pdf_files
+[2025-11-19T02:28:52.106Z] Movido: docker_registry_ui.png → image_files
+[2025-11-19T02:28:52.106Z] Movido: eqMac.dmg → executable_files
+[2025-11-19T02:28:52.107Z] Movido: exemplos_pytest_fastapi.md → markdown_files
+[2025-11-19T02:28:52.108Z] Movido: extrato (1).pdf → pdf_files
+[2025-11-19T02:28:52.108Z] Movido: extrato (2).pdf → pdf_files
+[2025-11-19T02:28:52.108Z] Movido: extrato-caged.pdf → pdf_files
+[2025-11-19T02:28:52.109Z] Movido: extrato.pdf → pdf_files
+[2025-11-19T02:28:52.109Z] Movido: extrato_GFTS.xlsx → spreadsheet_files
+[2025-11-19T02:28:52.110Z] Movido: extrato_MINDBE_TECNOLOGIA_E_DESIGN_DE_ATENDIMENT(1) (1).pdf → pdf_files
+[2025-11-19T02:28:52.110Z] Movido: extrato_MINDBE_TECNOLOGIA_E_DESIGN_DE_ATENDIMENT(1) (2).pdf → pdf_files
+[2025-11-19T02:28:52.111Z] Movido: extrato_MINDBE_TECNOLOGIA_E_DESIGN_DE_ATENDIMENT(1).pdf → pdf_files
+[2025-11-19T02:28:52.111Z] Movido: extrato_MINDBE_TECNOLOGIA_E_DESIGN_DE_ATENDIMENT(2).pdf → pdf_files
+[2025-11-19T02:28:52.112Z] Movido: fastapi-main.zip → compressed_files
+[2025-11-19T02:28:52.112Z] Movido: fastapi-modern-python-web-development-1nbsped-1098135504-9781098135508_compress.pdf → pdf_files
+[2025-11-19T02:28:52.112Z] Movido: fatura_bradesco.pdf → pdf_files
+[2025-11-19T02:28:52.113Z] Movido: favicon-128x128.png → image_files
+[2025-11-19T02:28:52.113Z] Movido: favicon-16x16.png → image_files
+[2025-11-19T02:28:52.114Z] Movido: favicon-256x256.png → image_files
+[2025-11-19T02:28:52.114Z] Movido: favicon-32x32.png → image_files
+[2025-11-19T02:28:52.114Z] Movido: favicon-48x48.png → image_files
+[2025-11-19T02:28:52.115Z] Movido: favicon-512x512.png → image_files
+[2025-11-19T02:28:52.115Z] Movido: favicon-64x64.png → image_files
+[2025-11-19T02:28:52.116Z] Movido: favicon-dark.png → image_files
+[2025-11-19T02:28:52.118Z] Movido: favicon-light.png → image_files
+[2025-11-19T02:28:52.118Z] Movido: felixlab-logo.png → image_files
+[2025-11-19T02:28:52.119Z] Movido: file_00000000742471f5860b754321520215 (3).png → image_files
+[2025-11-19T02:28:52.119Z] Movido: flask-de-a-a-z--crie-aplicacoes-web-mais-completas-e-robustas-em-python.pdf → pdf_files
+[2025-11-19T02:28:52.122Z] Movido: flecha.png → image_files
+[2025-11-19T02:28:52.123Z] Movido: frame.png → image_files
+[2025-11-19T02:28:52.123Z] Movido: francisco-nunes_accessKeys.csv → spreadsheet_files
+[2025-11-19T02:28:52.123Z] Movido: francisco-nunes_bedrock-api-keys.csv → spreadsheet_files
+[2025-11-19T02:28:52.124Z] Movido: francisco-nunes_credentials (1).csv → spreadsheet_files
+[2025-11-19T02:28:52.124Z] Movido: francisco-nunes_credentials.csv → spreadsheet_files
+[2025-11-19T02:28:52.125Z] Movido: github-recovery-codes.txt → text_files
+[2025-11-19T02:28:52.125Z] Movido: github.png → image_files
+[2025-11-19T02:28:52.126Z] Movido: glasses-lie-laptop-reflecting-light-from-screen-dark (1).jpg → image_files
+[2025-11-19T02:28:52.126Z] Movido: glasses-lie-laptop-reflecting-light-from-screen-dark.jpg → image_files
+[2025-11-19T02:28:52.127Z] Movido: guia_softskills_entrevista.pdf → pdf_files
+[2025-11-19T02:28:52.128Z] Movido: guia_softskills_entrevista_visual.pdf → pdf_files
+[2025-11-19T02:28:52.128Z] Movido: hand-drawn-international-jazz-day-illustration.zip → compressed_files
+[2025-11-19T02:28:52.129Z] Movido: hard-drive-components-laptop.jpg → image_files
+[2025-11-19T02:28:52.129Z] Movido: html-css-collage-concept.jpg → image_files
+[2025-11-19T02:28:52.130Z] Movido: html5up-big-picture.zip → compressed_files
+[2025-11-19T02:28:52.130Z] Movido: html5up-helios.zip → compressed_files
+[2025-11-19T02:28:52.130Z] Movido: html5up-hyperspace.zip → compressed_files
+[2025-11-19T02:28:52.131Z] Movido: html5up-landed.zip → compressed_files
+[2025-11-19T02:28:52.131Z] Movido: html5up-lens.zip → compressed_files
+[2025-11-19T02:28:52.132Z] Movido: html5up-massively.zip → compressed_files
+[2025-11-19T02:28:52.132Z] Movido: html5up-minimaxing.zip → compressed_files
+[2025-11-19T02:28:52.133Z] Movido: html5up-paradigm-shift.zip → compressed_files
+[2025-11-19T02:28:52.133Z] Movido: html5up-photon.zip → compressed_files
+[2025-11-19T02:28:52.133Z] Movido: html5up-prologue.zip → compressed_files
+[2025-11-19T02:28:52.133Z] Movido: html5up-story.zip → compressed_files
+[2025-11-19T02:28:52.134Z] Movido: html5up-zerofour.zip → compressed_files
+[2025-11-19T02:28:52.134Z] Movido: icons8-cantor-100.png → image_files
+[2025-11-19T02:28:52.134Z] Movido: icons8-cantor-fill.zip → compressed_files
+[2025-11-19T02:28:52.135Z] Movido: icons8-cantor-lineal-color.zip → compressed_files
+[2025-11-19T02:28:52.135Z] Movido: icons8-cantor-masculino-badges.zip → compressed_files
+[2025-11-19T02:28:52.135Z] Movido: icons8-emoji-de-lupa-inclinada-para-a-esquerda-emoji-favicons.zip → compressed_files
+[2025-11-19T02:28:52.136Z] Movido: icons8-home-ios-17-outlined (1).zip → compressed_files
+[2025-11-19T02:28:52.136Z] Movido: icons8-home-ios-17-outlined.zip → compressed_files
+[2025-11-19T02:28:52.137Z] Movido: icons8-karaokê-100.png → image_files
+[2025-11-19T02:28:52.137Z] Movido: icons8-karaokê-64.png → image_files
+[2025-11-19T02:28:52.139Z] Movido: icons8-karaokê-detailed-outline.zip → compressed_files
+[2025-11-19T02:28:52.139Z] Movido: icons8-karaokê-goofy-flat.zip → compressed_files
+[2025-11-19T02:28:52.140Z] Movido: icons8-karaokê-lineal-color (1).zip → compressed_files
+[2025-11-19T02:28:52.141Z] Movido: icons8-karaokê-lineal-color.zip → compressed_files
+[2025-11-19T02:28:52.142Z] Movido: icons8-karaokê-out-line.zip → compressed_files
+[2025-11-19T02:28:52.144Z] Movido: icons8-musica-youtube-32.png → image_files
+[2025-11-19T02:28:52.145Z] Movido: icons8-playlist-96.png → image_files
+[2025-11-19T02:28:52.147Z] Movido: imagens_dicom.zip → compressed_files
+[2025-11-19T02:28:52.147Z] Movido: it-specialist-checking-code-computer-dark-office-night.jpg → image_files
+[2025-11-19T02:28:52.148Z] Movido: karaoke-mic-svgrepo-com (1).png → image_files
+[2025-11-19T02:28:52.148Z] Movido: karaoke-mic-svgrepo-com (2).png → image_files
+[2025-11-19T02:28:52.149Z] Movido: karaoke-mic-svgrepo-com.png → image_files
+[2025-11-19T02:28:52.150Z] Movido: karaoke-night (1).zip → compressed_files
+[2025-11-19T02:28:52.150Z] Movido: karaoke-night.zip → compressed_files
+[2025-11-19T02:28:52.151Z] Movido: lambda-deploy_accessKeys.csv → spreadsheet_files
+[2025-11-19T02:28:52.151Z] Movido: lambda-deploy_credentials.csv → spreadsheet_files
+[2025-11-19T02:28:52.151Z] Movido: laptop-half-closed-dark-with-colourful-glow-glasses-paper-cup.jpg → image_files
+[2025-11-19T02:28:52.152Z] Movido: laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg → image_files
+[2025-11-19T02:28:52.152Z] Movido: laudo_96391495_laboratorial.pdf → pdf_files
+[2025-11-19T02:28:52.153Z] Movido: laudo_TASYHITA000014000420688200465447330097874980000001_patologia.pdf → pdf_files
+[2025-11-19T02:28:52.153Z] Movido: limelight (1).zip → compressed_files
+[2025-11-19T02:28:52.154Z] Movido: limelight.zip → compressed_files
+[2025-11-19T02:28:52.155Z] Movido: live-de-python-main.zip → compressed_files
+[2025-11-19T02:28:52.155Z] Movido: logo_karaoke.jpg → image_files
+[2025-11-19T02:28:52.156Z] Movido: logs_processo_selecionado.txt → text_files
+[2025-11-19T02:28:52.156Z] Movido: lupa-musical (1).png → image_files
+[2025-11-19T02:28:52.156Z] Movido: lupa-musical (2).png → image_files
+[2025-11-19T02:28:52.157Z] Movido: lupa-musical.png → image_files
+[2025-11-19T02:28:52.157Z] Movido: lupa.png → image_files
+[2025-11-19T02:28:52.157Z] Movido: mS2vJO2RXqkk5Dw2Y.html → web_files
+[2025-11-19T02:28:52.158Z] Movido: man-using-laptop-night-top-view-web-banner-with-copy-space (1).jpg → image_files
+[2025-11-19T02:28:52.158Z] Movido: man-using-laptop-night-top-view-web-banner-with-copy-space (2).jpg → image_files
+[2025-11-19T02:28:52.158Z] Movido: man-using-laptop-night-top-view-web-banner-with-copy-space.jpg → image_files
+[2025-11-19T02:28:52.159Z] Movido: mandibula-artificial-no-consultorio-dentista (1).jpg → image_files
+[2025-11-19T02:28:52.159Z] Movido: mandibula-artificial-no-consultorio-dentista (2).jpg → image_files
+[2025-11-19T02:28:52.160Z] Movido: mandibula-artificial-no-consultorio-dentista.jpg → image_files
+[2025-11-19T02:28:52.160Z] Movido: my-movies-modular.zip → compressed_files
+[2025-11-19T02:28:52.160Z] Movido: my-movies.zip → compressed_files
+[2025-11-19T02:28:52.161Z] Movido: nota_f_panassonic.pdf → pdf_files
+[2025-11-19T02:28:52.161Z] Movido: palette.png → image_files
+[2025-11-19T02:28:52.162Z] Movido: password-manager-example-en.py → python_files
+[2025-11-19T02:28:52.163Z] Movido: password-manager.py → python_files
+[2025-11-19T02:28:52.164Z] Movido: pizza.jpg → image_files
+[2025-11-19T02:28:52.164Z] Movido: prestacao-de-conta-2025.pdf → pdf_files
+[2025-11-19T02:28:52.164Z] Movido: programming-background-with-person-working-with-codes-computer.jpg → image_files
+[2025-11-19T02:28:52.165Z] Movido: proximo-plano-dos-instrumentos-dentarios.jpg → image_files
+[2025-11-19T02:28:52.165Z] Movido: queue (1).png → image_files
+[2025-11-19T02:28:52.166Z] Movido: queue.png → image_files
+[2025-11-19T02:28:52.166Z] Movido: refactored-csctl.py → python_files
+[2025-11-19T02:28:52.166Z] Movido: refazer (1).png → image_files
+[2025-11-19T02:28:52.167Z] Movido: refazer.png → image_files
+[2025-11-19T02:28:52.167Z] Movido: saas-concept-collage.jpg → image_files
+[2025-11-19T02:28:52.168Z] Movido: search-svgrepo-com 1.png → image_files
+[2025-11-19T02:28:52.168Z] Movido: search-svgrepo-com.png → image_files
+[2025-11-19T02:28:52.168Z] Movido: seguro-desemprego-consulta.pdf → pdf_files
+[2025-11-19T02:28:52.169Z] Movido: sem-parar-fat.pdf → pdf_files
+[2025-11-19T02:28:52.169Z] Movido: seta-direita (1).png → image_files
+[2025-11-19T02:28:52.170Z] Movido: seta-direita (2).png → image_files
+[2025-11-19T02:28:52.170Z] Movido: seta-direita.png → image_files
+[2025-11-19T02:28:52.170Z] Movido: seta-para-baixo.png → image_files
+[2025-11-19T02:28:52.171Z] Movido: smartphone (1).png → image_files
+[2025-11-19T02:28:52.171Z] Movido: smartphone (2).png → image_files
+[2025-11-19T02:28:52.171Z] Movido: smartphone (3).png → image_files
+[2025-11-19T02:28:52.172Z] Movido: smartphone.png → image_files
+[2025-11-19T02:28:52.172Z] Movido: solicitacao-seguro-desemprego.pdf → pdf_files
+[2025-11-19T02:28:52.173Z] Movido: sslaccesslog_felixlab.com.br_10_8_2025.gz → compressed_files
+[2025-11-19T02:28:52.173Z] Movido: teste_1.mp4 → video_files
+[2025-11-19T02:28:52.174Z] Movido: thermometer.png → image_files
+[2025-11-19T02:28:52.174Z] Movido: tipo-de-letra-disco.zip → compressed_files
+[2025-11-19T02:28:52.174Z] Movido: todos_os_logs (1).txt → text_files
+[2025-11-19T02:28:52.175Z] Movido: todos_os_logs.txt → text_files
+[2025-11-19T02:28:52.175Z] Movido: top-view-desk-concept-with-laptop.jpg → image_files
+[2025-11-19T02:28:52.176Z] Movido: tyche.1.1.4.zip → compressed_files
+[2025-11-19T02:28:52.176Z] Movido: v8_gemini-for-google-workspace-prompting-guide-pt-br (1).pdf → pdf_files
+[2025-11-19T02:28:52.176Z] Movido: v8_gemini-for-google-workspace-prompting-guide-pt-br.pdf → pdf_files
+[2025-11-19T02:28:52.177Z] Movido: vecteezy_barcode-scanner-icons-vector_114756_356.zip → compressed_files
+[2025-11-19T02:28:52.177Z] Movido: vecteezy_disco-ball-icon_2813176.zip → compressed_files
+[2025-11-19T02:28:52.178Z] Movido: vecteezy_disco-ball-icon_2813179.zip → compressed_files
+[2025-11-19T02:28:52.178Z] Movido: vecteezy_set-different-arrows-mark-collections-arrows-pointers-flat_24659697_813.zip → compressed_files
+[2025-11-19T02:28:52.179Z] Movido: vecteezy_set-different-arrows-mark-collections-arrows-pointers-flat_24665408_217.zip → compressed_files
+[2025-11-19T02:28:52.179Z] Movido: vecteezy_set-different-arrows-mark-collections-arrows-pointers-flat_24794345_644.zip → compressed_files
+[2025-11-19T02:28:52.180Z] Movido: vecteezy_smartphone-scanning-qr-code__295.zip → compressed_files
+[2025-11-19T02:28:52.180Z] Movido: vecteezy_vinyl-recorder-with-sound-wave-effect-inside__30.zip → compressed_files
+[2025-11-19T02:28:52.181Z] Movido: vinyl-record (1).png → image_files
+[2025-11-19T02:28:52.181Z] Movido: vinyl-record.png → image_files
+[2025-11-19T02:28:52.181Z] Movido: vinyl.png → image_files
+[2025-11-19T02:28:52.182Z] Movido: vinyl_874693.png → image_files
+[2025-11-19T02:28:52.182Z] Movido: vscode_cli_darwin_arm64_cli.zip → compressed_files
+[2025-11-19T02:28:52.183Z] Movido: whatsapp_condo_bot_clean_arch_fast_api.md → markdown_files
+[2025-11-19T02:28:52.183Z] Movido: Ícone de Dente Minimalista com Pixels.png → image_files
+[2025-11-19T02:28:52.335Z] Execução concluída.
+[2025-11-19T02:36:16.891Z] Iniciando execução...
+[2025-11-19T02:36:17.069Z] Movido: admin@felixlab.com.br (1).duck → compressed_files
+[2025-11-19T02:36:17.070Z] Movido: admin@felixlab.com.br.duck → compressed_files
+[2025-11-19T02:36:17.072Z] Movido: felixlab_db.sql → database_files
+[2025-11-19T02:36:17.074Z] Movido: test_url.sh → script_files
+[2025-11-19T02:36:17.229Z] Execução concluída.
+[2025-11-19T02:38:21.950Z] Iniciando execução...
+[2025-11-19T02:38:22.130Z] Movido: 9.svg → image_files
+[2025-11-19T02:38:22.136Z] Movido: Vinyl-Record--Streamline-Ultimate.svg → image_files
+[2025-11-19T02:38:22.138Z] Movido: add-to-favourites-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.144Z] Movido: af2ae7e4-66c4-4827-8161-c533579bf270.svg → image_files
+[2025-11-19T02:38:22.145Z] Movido: arrow-big-right-lines.svg → image_files
+[2025-11-19T02:38:22.146Z] Movido: arrow-direction-pointer-2-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.147Z] Movido: arrow-direction-pointer-6-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.147Z] Movido: arrow-direction-pointer-6-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.148Z] Movido: arrow-fat-lines-right-duotone-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.149Z] Movido: arrow-fat-lines-right-thin-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.149Z] Movido: arrow-fat-right-duotone-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.150Z] Movido: arrow-right-arrow-indicator-chevron-anchor-point-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.151Z] Movido: arrow-right-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.151Z] Movido: arrow-right-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.152Z] Movido: arrow-right-thick-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.152Z] Movido: arrow-right-thick.svg → image_files
+[2025-11-19T02:38:22.153Z] Movido: arrow-right-up-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.153Z] Movido: build-queue-new-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.154Z] Movido: cellphone-on-a-right-hand-being-touched-by-a-finger-of-other-right-hand-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.154Z] Movido: curve-arrow-right-3-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.155Z] Movido: curved-right-black-arrow-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.157Z] Movido: dot-right-arrow-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.157Z] Movido: empty-arrow-right-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.158Z] Movido: favicon.ico → image_files
+[2025-11-19T02:38:22.159Z] Movido: favorite-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.160Z] Movido: firecracker-firework-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.160Z] Movido: firecracker-firework-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.161Z] Movido: forward-message-arrow-right-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.161Z] Movido: forward-message-arrow-right-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.161Z] Movido: hand-holding-a-cellphone-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.162Z] Movido: hand-holding-a-cellphone-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.162Z] Movido: karaoke-mic-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.163Z] Movido: karaoke-mic-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.163Z] Movido: lupa-musical.svg → image_files
+[2025-11-19T02:38:22.164Z] Movido: menu-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.164Z] Movido: mic-microphone-sound-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.165Z] Movido: mic.svg → image_files
+[2025-11-19T02:38:22.165Z] Movido: microphone-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.166Z] Movido: music-music-and-multimedia-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.168Z] Movido: music-square-search-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.168Z] Movido: person-arrow-left-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.169Z] Movido: person-arrow-right-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.169Z] Movido: person-arrow-right-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.170Z] Movido: piano-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.170Z] Movido: play-arrow.svg → image_files
+[2025-11-19T02:38:22.171Z] Movido: play-list-add-fill-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.171Z] Movido: play-pause-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.172Z] Movido: play-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.173Z] Movido: presence-indicator-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.174Z] Movido: qr-code-scanner-phone-qr-code-smartphone-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.174Z] Movido: qr-code-scanner-phone-qr-code-smartphone-svgrepo-com (2).svg → image_files
+[2025-11-19T02:38:22.175Z] Movido: qr-code-scanner-phone-qr-code-smartphone-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.178Z] Movido: queue-remove-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.179Z] Movido: queue-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.179Z] Movido: ribbon-arrow-right-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.180Z] Movido: search-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.181Z] Movido: search.svg → image_files
+[2025-11-19T02:38:22.185Z] Movido: send-arrow-direction-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.186Z] Movido: sharp-arrow-right-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.187Z] Movido: singer-song-sing-performer-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.188Z] Movido: smartphone-hands-and-gestures-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.188Z] Movido: smartphone-hands-and-gestures-svgrepo-com (2).svg → image_files
+[2025-11-19T02:38:22.188Z] Movido: smartphone-hands-and-gestures-svgrepo-com (3).svg → image_files
+[2025-11-19T02:38:22.190Z] Movido: smartphone-hands-and-gestures-svgrepo-com (4).svg → image_files
+[2025-11-19T02:38:22.192Z] Movido: smartphone-hands-and-gestures-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.205Z] Movido: star-arrow-right-start-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.209Z] Movido: star-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.211Z] Movido: taking-a-selfie-with-cellphone-photo-camera-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.211Z] Movido: tap-hands-and-gestures-svgrepo-com (1).svg → image_files
+[2025-11-19T02:38:22.212Z] Movido: tap-hands-and-gestures-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.215Z] Movido: youtube-symbol-svgrepo-com 1.svg → image_files
+[2025-11-19T02:38:22.216Z] Movido: youtube-symbol-svgrepo-com.svg → image_files
+[2025-11-19T02:38:22.337Z] Execução concluída.
+[2025-11-19T02:40:22.451Z] Iniciando execução...
+[2025-11-19T02:40:22.642Z] Movido: DALL·E 2025-01-06 23.02.48 - A modern LinkedIn banner image featuring technology themes like Python programming, NoSQL databases, cloud computing, and microservices. The design sh.webp → image_files
+[2025-11-19T02:40:22.644Z] Movido: DALL·E 2025-01-06 23.06.08 - A sleek and minimalistic banner image featuring technology themes like Python programming, Node.js, NoSQL databases, cloud computing, DevOps, and micr.webp → image_files
+[2025-11-19T02:40:22.646Z] Movido: DALL·E 2025-01-06 23.15.04 - A modern LinkedIn banner image featuring technology themes like Python programming, NoSQL databases, cloud computing, and microservices. The design sh.webp → image_files
+[2025-11-19T02:40:22.649Z] Movido: DALL·E 2025-01-22 00.14.46 - A vibrant and visually engaging illustration of a cloud backup system for a Redis database. The image prominently features the Redis logo or icon (sta.webp → image_files
+[2025-11-19T02:40:22.651Z] Movido: DALL·E 2025-01-22 00.17.09 - A sleek and professional illustration of a cloud backup system for a Redis database. The design prominently features a polished Redis icon (stacked ci.webp → image_files
+[2025-11-19T02:40:22.653Z] Movido: nginx-http-server.epub → compressed_files
+[2025-11-19T02:40:22.655Z] Movido: protese_dentaria_react_site (1).jsx → js_files
+[2025-11-19T02:40:22.656Z] Movido: protese_dentaria_react_site.jsx → js_files
+[2025-11-19T02:40:22.796Z] Execução concluída.
+[2025-11-19T02:41:14.630Z] Iniciando execução...
+[2025-11-19T02:41:14.813Z] Movido: AWSCLIV2.pkg → executable_files
+[2025-11-19T02:41:14.947Z] Execução concluída.
